@@ -1,13 +1,13 @@
 body{
-  background-color: #8eadc5;
+  background-color: #ffffff;
 }
 
 body.claro{
-  background-color: #8de1bd;
+  background-color: #fffec0;
 }
 
 body.oscuro{
-  background-color: #577a76;
+  background-color: #e0dc00;
 }
 
 
